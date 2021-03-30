@@ -11,4 +11,4 @@ Inhalt for schleife
 
 # Abgaben
   Abgabe 1:
-    Tannebaum: 
+    Tannenbaum: 
